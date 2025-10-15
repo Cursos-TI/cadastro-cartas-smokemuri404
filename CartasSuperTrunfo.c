@@ -53,7 +53,7 @@ int main() {
     scanf("%s", Estado);
 
     printf("Digite o código que deseja dar à carta:\n");
-    scanf("%s", Codigo);
+    scanf("%s",  Codigo);
 
     printf("Digite o nome da cidade:\n");
     scanf(" %[^\n]", Nome);  // permite nomes com espaço dica legal da net
